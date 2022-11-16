@@ -1,0 +1,59 @@
+<div class="center">
+	<div class="prose">
+		<h1>Desigualdad de Genero</h1>
+
+		<p>
+			La desigualdad de genero es la discriminación solo por el género de una persona. Normalmente, va dirigida hacia la mujer. A la mujer se le discrimina mucho por su género y porque no se cree que el género femenino pueda hacer lo mismo o más que el género masculino. En muy pocos casos se puede ver en alguna cultura como las mujeres son las que hacen las cosas físicas, he importantes en la cultura, pero esto no pasa muy a menudo.
+		</p>
+	</div>
+</div>
+
+<div class="divider" />
+
+<div class="row">
+	<div class="column center">
+		<div class="prose">
+			<h3>Kahoot!</h3>
+			<p>
+				¿A quien no le gusta un buen Kahoot? A NADIE! Imaginense esto como un <i><b>checkpoint</b></i> de este sitio.
+			</p>
+				<a href="https://create.kahoot.it/share/la-desigualdad-de-genero/4c3df3a9-1cca-4e65-b395-a995cea72340">
+					<img class="transition-all hover:scale-110" src="/kahoot.png" alt="el logo de Kahoot!">
+				</a>
+		</div>
+	</div>
+	<div class="column center">
+		<dic class="prose">
+			<h3>Poster</h3>
+			<p class="w-96 ml-8">
+				Este poster destaca los mayores y mas famosos problemas en la desigualdad de genero. Por esta desigualdad se crea el feminismo y por eso este poster esta mas por el lado del feminismo y discutiendo hechos de esta desigualdad.
+			</p>
+			<div class="bg-base-200 ml-6 rounded-xl p-[25px] w-[400px] center">
+				<img class="h-[500px]" src="/poster(1).png" alt="El segundo poster de la presentacion" />
+			</div>
+		</dic>
+	</div>
+	<div class="column center">
+		<dic class="prose">
+			<h3>Video</h3>
+		</dic>
+	</div>
+</div>
+
+<style>
+	.column {
+		float: left;
+		width: 33.33%;
+	}
+
+	/* Clear floats after the columns */
+	.row:after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+
+	h1, h3 {
+		color: var(--main);
+	}	
+</style>
