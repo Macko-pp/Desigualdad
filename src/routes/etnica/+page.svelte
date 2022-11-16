@@ -19,7 +19,7 @@
 			</p>
 
 			<a href="https://docs.google.com/forms/d/e/1FAIpQLSeRySXf6jHOqGxhMWi5lIQK7npU_I2gnP1IiRRbSLiBd39hpQ/viewform?usp=sf_link">
-				<img class="mt-0 transition-all hover:scale-110" src="src/routes/lib/hand-circle.png" alt="a buch of different colored hands making a circle">
+				<img class="mt-0 transition-all hover:scale-110" src="/hand-circle.png" alt="a buch of different colored hands making a circle">
 			</a>
 		</div>
 	</div>
@@ -29,9 +29,9 @@
 		</div>
 	</div>
 	<div class="column center">
-		<dic class="prose">
+		<div class="prose">
 			<h3>Video</h3>
-		</dic>
+		</div>
 	</div>
 </div>
 
