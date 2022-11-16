@@ -18,7 +18,7 @@
 				¿A quien no le gusta un buen Kahoot? A NADIE! Imaginense esto como un <i><b>checkpoint</b></i> de este sitio.
 			</p>
 				<a href="https://create.kahoot.it/share/la-desigualdad-de-genero/4c3df3a9-1cca-4e65-b395-a995cea72340">
-					<img class="transition-all hover:scale-110" src="/kahoot.png" alt="el logo de Kahoot!">
+					<img class="transition-all hover:scale-110" src="src/routes/lib/kahoot.png" alt="el logo de Kahoot!">
 				</a>
 		</div>
 	</div>
@@ -29,7 +29,7 @@
 				Este poster destaca los mayores y mas famosos problemas en la desigualdad de genero. Por esta desigualdad se crea el feminismo y por eso este poster esta mas por el lado del feminismo y discutiendo hechos de esta desigualdad.
 			</p>
 			<div class="bg-base-200 ml-6 rounded-xl p-[25px] w-[400px] center">
-				<img class="h-[500px]" src="/poster(1).png" alt="El segundo poster de la presentacion" />
+				<img class="h-[500px]" src="src/routes/lib/poster(1).png" alt="El segundo poster de la presentacion" />
 			</div>
 		</dic>
 	</div>

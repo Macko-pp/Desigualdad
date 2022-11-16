@@ -18,7 +18,7 @@
 				Esto fue posteado en la plataforma social "Twitter" para que mucha gente lo pudiera ver y comentar sobre él.
 			</p>
 			<div class="bg-slate-500 rounded-xl p-4 text-white">
-				<img class="rounded-xl" src="/tweet.png" alt="
+				<img class="rounded-xl" src="src/routes/lib/tweet.png" alt="
 					Hola a todos! Quería preguntarle a ustedes que piensan sobre la
 					desigualdad? En un problema muy grande que a afecta a mucha gente a
 					travez del mundo. Me encantaría escuchar sus opiniones y si quieren,

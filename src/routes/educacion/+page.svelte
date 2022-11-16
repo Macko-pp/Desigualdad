@@ -18,15 +18,15 @@
 				¿Eres víctima de la desigualdad? ¿Conoces a alguien que sufre de ella? Llena este formulario anonimo de 2 minutos, te ayudáremos.
 			</p>
 			<a href="/">
-				<img src="/bad-school.png" class="my-1 transition-all hover:scale-110" alt="a buch of different colored hands making a circle">
+				<img src="src/routes/lib/bad-school.png" class="my-1 transition-all hover:scale-110" alt="a buch of different colored hands making a circle">
 				<p class="text-[7px]">Imagen tomada de la <a href="https://www.uepc.org.ar/conectate/mejoran-los-aprendizajes-pero-aun-persiste-la-desigualdad/">ICIEC</a></p>
 			</a>
 		</div>
 	</div>
 	<div class="column center">
-		<dic class="prose">
+		<div class="prose">
 			<h3>Poster</h3>
-		</dic>
+		</div>
 	</div>
 	<div class="column center">
 		<dic class="prose">

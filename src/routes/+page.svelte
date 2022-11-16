@@ -49,7 +49,7 @@
 		</p>
 
 		<div class="bg-base-200 rounded-xl ml-[75px] p-[25px] max-w-[500px] center">
-			<img class="h-[600px] rounded-xl" src="/poster(0).png" alt="El primer poster de la presentacion" />
+			<img class="h-[600px] rounded-xl" src="src/routes/lib/poster(0).png" alt="El primer poster de la presentacion" />
 		</div>
 	</div>
 </div>
@@ -60,11 +60,11 @@
 	}
 
 	.bottom {
-		background-image: url("fall-bottom.png");
+		background-image: url("./lib/fall-bottom.png");
 	}
 
 	.top {
-		background-image: url("blob-background.png");
+		background-image: url("./lib/blob-background.png");
 	}
 
 
