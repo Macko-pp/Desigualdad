@@ -26,6 +26,9 @@
 	<div class="column center">
 		<div class="prose">
 			<h3>Poster</h3>
+			<div class="bg-base-200 ml-6 rounded-xl p-[25px] w-[400px] center">
+				<img class="h-[500px] rounded-xl" src="/poster(2).png" alt="El segundo poster de la presentacion" />
+			</div>
 		</div>
 	</div>
 	<div class="column center">

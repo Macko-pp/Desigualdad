@@ -29,7 +29,7 @@
 				Este poster destaca los mayores y mas famosos problemas en la desigualdad de genero. Por esta desigualdad se crea el feminismo y por eso este poster esta mas por el lado del feminismo y discutiendo hechos de esta desigualdad.
 			</p>
 			<div class="bg-base-200 ml-6 rounded-xl p-[25px] w-[400px] center">
-				<img class="h-[500px]" src="/poster(1).png" alt="El segundo poster de la presentacion" />
+				<img class="h-[500px] rounded-xl" src="/poster(1).png" alt="El segundo poster de la presentacion" />
 			</div>
 		</div>
 	</div>
