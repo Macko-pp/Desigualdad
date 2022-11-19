@@ -26,6 +26,9 @@
 	<div class="column center">
 		<div class="prose">
 			<h3>Poster</h3>
+			<div class="bg-base-200 ml-6 rounded-xl p-[25px] w-[400px] center">
+				<img class="h-[500px] rounded-xl" src="/poster(4).png" alt="El segundo poster de la presentacion" />
+			</div>
 			<p>
 				La desigualdad educativa es un tema serio, especialmente en países como Colombia. Hay colegios y universidades que son muy costosos y tienen un nivel de educación de mejor calidad y más avanzado. Pero como hay de esas instituciones también están las que no tienen casi recursos, no tienen una educación avanzada ni profesores de un buen nivel. Es bueno que esté la opción de las instituciones sin costo, pero si no tiene casi calidad, las personas no pueden expandir su intelecto a los niveles que puede llegar.  No entiendo por qué el hecho de tener más o menos dinero sea lo que define que tanto puedas estudiar y expandir tu aprendizaje.
 			</p>
