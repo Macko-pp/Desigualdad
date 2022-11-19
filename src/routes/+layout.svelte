@@ -27,8 +27,8 @@
 	<div class="flex-none">
 		<ul class="menu menu-horizontal p-0">
 			<li><a class="btn btn-ghost normal-case" href="etnica">Desigualdad Étnica</a></li>
-			<li><a class="btn btn-ghost normal-case" href="economica">Desigualdad Economica</a></li>
-			<li><a class="btn btn-ghost normal-case" href="genero">Desigualdad de Genero</a></li>
+			<li><a class="btn btn-ghost normal-case" href="economica">Desigualdad Económica</a></li>
+			<li><a class="btn btn-ghost normal-case" href="genero">Desigualdad de Género</a></li>
 			<li><a class="btn btn-ghost normal-case" href="educacion">Desigualdad Educativa</a></li>
 		</ul>
 	</div>
@@ -39,6 +39,11 @@
 </div>
 
 <style>
+	.navbar {
+		position: fixed;
+		z-index: 1;
+	}
+
 	@keyframes spin {
 		0% {
 			transform: rotate(0);
@@ -55,5 +60,6 @@
 
 	.padded {
 		padding: 50px;
+		padding-top: 114px;
 	}
 </style>

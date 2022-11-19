@@ -26,7 +26,7 @@
 		<div class="prose">
 			<h3>Poster</h3>
 			<p class="w-96 ml-8">
-				Este poster destaca los mayores y mas famosos problemas en la desigualdad de genero. Por esta desigualdad se crea el feminismo y por eso este poster esta mas por el lado del feminismo y discutiendo hechos de esta desigualdad.
+				Este póster destaca los mayores y más famosos problemas en la desigualdad de género. Por esta desigualdad se crea el feminismo y por eso este póster está más por el lado del feminismo y discutiendo hechos de esta desigualdad.
 			</p>
 			<div class="bg-base-200 ml-6 rounded-xl p-[25px] w-[400px] center">
 				<img class="h-[500px] rounded-xl" src="/poster(1).png" alt="El segundo poster de la presentacion" />
@@ -34,9 +34,16 @@
 		</div>
 	</div>
 	<div class="column center">
-		<dic class="prose">
+		<div class="prose">
 			<h3>Video</h3>
-		</dic>
+			<!-- svelte-ignore a11y-media-has-caption -->
+			<video width="400" controls class="rounded-xl ml-6">
+  				<source src="/video-genero.mp4" type="video/mp4">
+			</video> 
+			<p>
+				En este video se intentó crear un reconocimiento sobre diversos aspectos. Nuestro propósito a través de este video era informar y concientizar a la audiencia sobre las injusticias, discriminaciones y acoso que reciben diferentes personas en el mundo por esta. En este video explicamos cómo varían las causas y cómo se relacionan, su definición y finalmente una reflexión, la cual tiene como objetivo crear un pensamiento crítico y más abierto para evitar el acoso y discriminación por esta desigualdad. Finalmente, frente a nuestro objetivo y propósito, logramos concientizar y comunicar que los derechos, oportunidades y el trato que recibimos no dependen de nuestro género, sino de nuestra capacidad y manera de ser.
+			</p>
+		</div>
 	</div>
 </div>
 
