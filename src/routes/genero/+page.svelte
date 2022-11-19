@@ -15,7 +15,7 @@
 		<div class="prose">
 			<h3>Kahoot!</h3>
 			<p>
-				¿A quien no le gusta un buen Kahoot? A NADIE! Imaginense esto como un <i><b>checkpoint</b></i> de este sitio.
+				¿A quien no le gusta un buen Kahoot? A NADIE! Imaginense esto como un <i><b>checkpoint</b></i> de este sitio. Este kahoot desafiará tu conocimiento sobre el segundo tipo de desigualdad más común, ¡también te enseñará sobre la desigualdad de género si quieres aprender más sobre ella! Juega con amigos o solo si quieres.
 			</p>
 				<a href="https://create.kahoot.it/share/la-desigualdad-de-genero/4c3df3a9-1cca-4e65-b395-a995cea72340">
 					<img class="transition-all hover:scale-110" src="/kahoot.png" alt="el logo de Kahoot!">
