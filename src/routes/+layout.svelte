@@ -1,13 +1,13 @@
 <script lang="ts">
 	import "../app.postcss";
-	import NotEquals from "./lib/not-equals.svelte"
+	import NotEquals from "./lib/not-equals.svelte";
 
 	let audio: any;
 
 	function playAudio() {
 		setTimeout(() => {
-			audio.play()
-		},0)	
+			audio.play();
+		}, 0);
 	}
 </script>
 
@@ -18,7 +18,7 @@
 			<btn class="btn btn-square btn-ghost hover:bg-transparent spin">
 				<NotEquals />
 			</btn>
-			<audio src="src/routes/lib/GreenGiant.mp3" bind:this={audio}></audio>
+			<audio src="src/routes/lib/GreenGiant.mp3" bind:this={audio} />
 		</a>
 	</div>
 	<div class="flex-1">
